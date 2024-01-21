@@ -1,6 +1,6 @@
 {
   "host": "localhost",
-  "port": 1313,
+  "port": 6103,
   "public": "../public/",
   "paginate": {
     "default": 10,
@@ -28,6 +28,6 @@
       "passwordField": "password"
     }
   },
-  "mongodb": "mongodb+srv://admin-web:stuart@cluster0.podle1o.mongodb.net/themeforest-003"
+  "mongodb": "mongodb+srv://admin-web:stuart@cluster0.podle1o.mongodb.net/capilla-dignidad"
   
 }

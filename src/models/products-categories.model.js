@@ -9,8 +9,8 @@ module.exports = function (app) {
   const schema = new Schema({
     // text: { type: String, required: true }
     title: { type: String, required: true },
-    description: { type: String, required: true },
-    image: { type: String, required: true },
+    description: { type: String, required: false },
+    image: { type: String, required: false },
     slug: { type: String, required: false },
     metaData: { type: Object, required: false },
   }, {

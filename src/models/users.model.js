@@ -34,6 +34,7 @@
       telephone: { type: String },
       address: { type: String },
       city: { type: String },
+      zipcode: { type: String },
       image: { type: String },
       content: { type: String },
 
